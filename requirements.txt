@@ -6,5 +6,5 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-pickle
+pickle-mixin
 plotly
